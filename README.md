@@ -30,10 +30,10 @@ FUNCIONAMIENTO
 4.Imprime si la cadena es ACEPTADA o RECHAZADA.
 
 EJECUCION
-![Resultado de la ejecucion](imagenes/Captura de pantalla 2026-02-11 200717.png)
 
 Ubícate en la carpeta del proyecto y ejecuta:
 
 py AFD.py entrada.txt
 
 RESULTADOS 
+![Captura AFD](imagenes/Captura%20de%20pantalla%202026-02-11%20200717.png)
